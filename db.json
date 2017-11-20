@@ -1,5 +1,5 @@
-{
-"Artikel": [
+
+"Artikel":
     {
       "ArtikelID": "10001",
       "MesoComp": "500B",
@@ -68,5 +68,3 @@
       "oUebersetzungen": null,
       "oZusatzstruktur": null
     }
-]	
-}
